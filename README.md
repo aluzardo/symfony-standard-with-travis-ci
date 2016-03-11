@@ -1,4 +1,4 @@
-Symfony Standard Edition [![Build Status](https://travis-ci.org/aluzardo/symfony-standard-with-travis-ci.svg?branch=master)](https://travis-ci.org/aluzardo/symfony-standard-with-travis-ci)
+Symfony Standard Edition [![Build Status](https://travis-ci.org/aluzardo/symfony-standard-with-travis-ci.svg?branch=2.8)](https://travis-ci.org/aluzardo/symfony-standard-with-travis-ci)
 ========================
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony
