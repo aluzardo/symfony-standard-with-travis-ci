@@ -5,7 +5,7 @@ parameters:
 
 services:
      foo_service:
-         class: AppBundle\Services\FooService
+         class: AppBundle\Services\Locale
          arguments: ["@session"]
 #    service_name:
 #        class: AppBundle\Directory\ClassName
