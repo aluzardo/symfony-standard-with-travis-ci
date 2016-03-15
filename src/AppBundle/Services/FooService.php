@@ -15,6 +15,7 @@ class Locale {
 
   private function __construct( Session $session ) {
     $this->session = $session;
+    $this->session->set("_locale", "es");
   }
 
   public function setLocaleSession() {
